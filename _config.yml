@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   most of it is adapted from UCSC BME110 taught by Todd Lowe.
   I will add to it as we progress and add any useful resources we find.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://users.soe.ucsc.edu/~abagi/pub/biobasics" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  alba1735
 
@@ -54,7 +54,8 @@ color_scheme: "light"
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - Makefile
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
