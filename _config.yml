@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,21 +18,33 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Bioinformatics Basics
+email: abagi@ucsc.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a site I made to help introduce people to bioinformatics basics,
+  most of it is adapted from UCSC BME110 taught by Todd Lowe.
+  I will add to it as we progress and add any useful resources we find.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  alba1735
 
 # Build settings
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+
+# Footer content appears at the bottom of every page's main content
+#footer_content: "Copyright &copy; 2017-2019 Alex Bagi. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2020. Adapted from BME110 at UCSC taught by Todd Lowe. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "light"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
