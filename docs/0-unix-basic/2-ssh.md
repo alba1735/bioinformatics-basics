@@ -4,9 +4,9 @@ title: SSH
 parent: "Unix - Basic"
 nav_order: 1
 ---
-# SSH 
+# SSH
 
-**New this year: the Hummingbird cluster is now only accessible from official UCSC IP addresses.** To access externally, you will need to use the [campus VPN service](https://its.ucsc.edu/vpn/index.html).
+**New this year: the Hummingbird cluster is now only accessible from official UCSC IP addresses.** To access externally, you will need to use the [campus VPN service](https://its.ucsc.edu/vpn/index.html){:target="blank"}.
 
 The syntax for `ssh` (secure shell) is `ssh username@computer_name`. In this case, your username is your CruzID, and the computer name is `hb.ucsc.edu`.
 

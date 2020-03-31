@@ -5,17 +5,16 @@ DOCKER_PORT ?= 4000
 
 jekyll-server:
 	docker run \
-	  -v `pwd`:/srv/jekyll \
-	  -v `pwd`/.gems:/usr/local/bundle \
+		-v `pwd`:/srv/jekyll \
+		-v `pwd`/.gems:/usr/local/bundle \
 		-p $(DOCKER_PORT):4000 \
 		-it jekyll/jekyll:latest \
 		jekyll serve
 
 jekyll-build:
 	docker run \
-  	-v `pwd`:/srv/jekyll \
-	  -v `pwd`/.gems:/usr/local/bundle \
-		-p $(DOCKER_PORT):4000 \
+		-v `pwd`:/srv/jekyll \
+		-v `pwd`/.gems:/usr/local/bundle \
 		-it jekyll/jekyll:latest \
 		jekyll build
 

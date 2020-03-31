@@ -1,7 +1,7 @@
 ---
 layout: default
 title: More Unix Tools
-parent: "Unix - Intermediate"
+parent: "Unix - Intermediate I"
 nav_order: 1
 ---
 # More Unix tools: `wc`, `cut`, `grep`, `sed`

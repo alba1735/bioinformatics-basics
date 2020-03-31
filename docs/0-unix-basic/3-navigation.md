@@ -63,7 +63,7 @@ What's happening here?
 
 * Unix hides all files that start with a `.` by default. These are hidden files that you typically don't need to interact with. Often, preferences will be saved in hidden files or folders.
 * I probably have a lot more hidden files than you do since I've used this server before.
-* `.` is your current directory. You can test this by typing `cd .` (change to the directory that is... your current directory :|. Type `pwd` to confirm this) or by typing `ls .`.
+* `.` is your current directory. You can test this by typing `cd .` (change to the directory that is... your current directory `.` Type `pwd` to confirm this) or by typing `ls .`.
 * `..` is the *parent* directory. **Don't** try it now, because the parent directory will list all user directories - basically all students, staff, and faculty at UCSC. This will take a long time!
   * Instead, switch to a subdirectory (e.g., `cd bio`), then list the files in your home directory with `ls ..` to confirm that `..` links to the parent directory. If you don't have a subdirectory, continue on...
   * Since each directory has `..`, you can chain these together (not that it's particularly useful), like for example, `cd bio/../bio/../bio`.

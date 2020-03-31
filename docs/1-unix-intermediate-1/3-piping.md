@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Redirecting Output and Piping
-parent: "Unix - Intermediate"
+parent: "Unix - Intermediate I"
 nav_order: 2
 ---
 # Redirecting output and piping

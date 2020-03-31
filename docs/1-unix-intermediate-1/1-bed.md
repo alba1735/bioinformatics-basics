@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bed Files
-parent: "Unix - Intermediate"
+parent: "Unix - Intermediate I"
 nav_order: 0
 ---
 # BED file format
@@ -28,4 +28,4 @@ This is a BED file, a standard genome annotation format that is also used in the
 
 This particular BED file contains annotations of human tRNA genes from chromosome 9 and 10, one per line, across all 12 columns (BED12) since some eukaryotic tRNAs contain introns. In this case, the blocks represent the number of exons and introns.  
 
-You can view any other file formats in addition to BED at at [UCSC genome browser](https://genome.ucsc.edu/FAQ/FAQformat.html).
+You can view any other file formats in addition to BED at at [UCSC genome browser](https://genome.ucsc.edu/FAQ/FAQformat.html){:target="blank"}.
