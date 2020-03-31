@@ -1,10 +1,10 @@
 ---
 layout: default
 title: SSH
-parent: UNIX Basics
+parent: "Unix - Basic"
 nav_order: 1
 ---
-# Logging in
+# SSH 
 
 **New this year: the Hummingbird cluster is now only accessible from official UCSC IP addresses.** To access externally, you will need to use the [campus VPN service](https://its.ucsc.edu/vpn/index.html).
 

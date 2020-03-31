@@ -18,3 +18,6 @@ jekyll-build:
 		-p $(DOCKER_PORT):4000 \
 		-it jekyll/jekyll:latest \
 		jekyll build
+
+upload:
+	scp -r _site/* abagi@morty.soe.ucsc.edu:/soe/abagi/.html/pub/biobasics/.

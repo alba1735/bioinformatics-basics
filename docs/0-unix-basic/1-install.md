@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terminal Install
-parent: UNIX Basics
+parent: "Unix - Basic"
 nav_order: 0
 ---
 # Accessing a Unix-like server

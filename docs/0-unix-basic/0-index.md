@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "UNIX Basics"
+title:  "Unix - Basic"
 nav_order: 0
 has_children: true
 ---
-# UNIX Basics
+# UNIX - Basic
 
 Introduction and basics to using UNIX from terminal installation to file manipulation.
 {: .fs-6 .fw-300 }

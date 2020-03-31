@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing
-parent: UNIX Basics
+parent: "Unix - Basic"
 nav_order: 8
 ---
 # Editing files: `nano`

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Navigation
-parent: UNIX Basics
+parent: "Unix - Basic"
 nav_order: 3
 ---
 <!-- # Navigation Structure

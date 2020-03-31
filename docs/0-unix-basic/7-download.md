@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Downloading
-parent: UNIX Basics
+parent: "Unix - Basic"
 nav_order: 7
 ---
 # Downloading files: `wget`

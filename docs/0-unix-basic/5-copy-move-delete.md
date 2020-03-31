@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create, Move, and Delete
-parent: UNIX Basics
+parent: "Unix - Basic"
 nav_order: 5
 ---
 # Copy, move, delete files: `cp`, `mv`, `rm`
