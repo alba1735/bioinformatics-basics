@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intersections
-parent: "Genome Browser - Basic"
+parent: "Genome Browser"
 nav_order: 1
 ---
 # Intersections

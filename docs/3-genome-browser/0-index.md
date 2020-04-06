@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Genome Browser - Basic"
-nav_order: 2
+title:  "Genome Browser"
+nav_order: 3
 has_children: true
-nav_exclude: true
+nav_exclude: false
 ---
 # Genome Browser - Basic
 

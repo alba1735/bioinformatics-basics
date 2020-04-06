@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Exploration
-parent: "Genome Browser - Basic"
+parent: "Genome Browser"
 nav_order: 2
 ---
 # Exploring the data

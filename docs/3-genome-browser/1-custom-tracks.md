@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Custom Tracks
-parent: "Genome Browser - Basic"
+parent: "Genome Browser"
 nav_order: 0
 ---
 # Custom tracks
