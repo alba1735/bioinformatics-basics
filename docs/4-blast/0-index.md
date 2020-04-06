@@ -24,14 +24,14 @@ Use BLAST to learn more about it. Answer the following questions and check your 
 - What species is it from?
 - What is the identity of this protein?
 - What is its biological function?
-- Which domains contain homologs?
-- Once you think you've figured these out, the answers are below (highlight to see white text).
+<!-- Which domains contain homologs?
+- Once you think you've figured these out, the answers are below (highlight to see white text).-->
 
 - blastp
 - Saccharomyces cerevisiae
 - POP5
 - RNase P subunit
-- Eukaryotes only
+<!--- Eukaryotes only -->
 
 ## Command line BLAST
 

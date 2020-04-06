@@ -17,6 +17,10 @@ This is a site I made to help introduce people to bioinformatics basics, most of
 * [Sean Davis's Tutorial](https://csiflabs.cs.ucdavis.edu/~ssdavis/30/UnixWorkshop.pdf){:target="blank"}
 * [Vince Buffalo](https://vincebuffalo.com/blog/2013/08/08/using-names-pipes-and-process-substitution-in-bioinformatics.html){:target="blank"}: Advanced substitution and piping
 
+## Genome Browser
+
+* [Genome Browser Tutorials](https://genome.ucsc.edu/training/)
+
 ## Python
 
 * [Pandas Getting Started](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html){:target="blank"}: Basic dataframes in python
