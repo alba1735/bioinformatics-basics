@@ -52,7 +52,7 @@ type bigBed 12
 
 Now with all our files in place we need to place it in a directory that is publicly accessible to html.
 
-* If you have a SOE account or are an engineering student you can login to one of the SOE servers (such as `waterdance.soe.ucsc.edu`) and create a folder in your home directory called `.html`. You can then make a folder inside this called `pub` and run the command `chmod 777 pub` to make it available to anyone. You can then place the trackhub folder inside this and reach it at the url `https://users.soe.ucsc.edu/~<cruzid>/pub/testhub/hub.txt`.
+* If you have a SOE account or are an engineering student you can login to one of the SOE servers (such as `waterdance.soe.ucsc.edu`) and create a folder in your home directory called `.html`. You can then make a folder inside this called `pub` and run the command `chmod 755 pub` to make it available to anyone. You can then place the trackhub folder inside this and reach it at the url `https://users.soe.ucsc.edu/~<cruzid>/pub/testhub/hub.txt`.
   * **WARNING:** anything inside this `pub` folder is visible to everyone on the internet.
 * Your lab may also have a publicly available directory for placing trackhubs on their own server.
 * Their are also options to use Github, or cloud storage (Google Drive, Dropbox, etc.) explained [here](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html#Hosting)
