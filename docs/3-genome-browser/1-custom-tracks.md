@@ -15,16 +15,16 @@ To do this, we'll upload a custom track to the genome. Go to the genome browser,
 * Make sure you are on hg19 and not hg38!
 * It should look somewhat like this:
 
-![](/assets/img/genome-browser/custom-1.png)
+![]({{ '/assets/img/genome-browser/custom-1.png' | relative_url }})
 
 Click on My Data -> Custom Tracks.
 
-![](/assets/img/genome-browser/custom-2.png)
+![]({{ '/assets/img/genome-browser/custom-2.png' | relative_url }})
 
 Paste this URL into the upload section: `https://users.soe.ucsc.edu/~blin/pub/bme110-w18/Luke.pgSnp`. Here is a successful track upload.
 
-![](/assets/img/genome-browser/custom-3.png)
+![]({{ '/assets/img/genome-browser/custom-3.png' | relative_url }})
 
 Click "Go", and zoom out to a 200 kb region. You should be able to now see the SNPs loaded in under a track titled "SNP data for Luke Skywalker".
 
-![](/assets/img/genome-browser/custom-4.png)
+![]({{ '/assets/img/genome-browser/custom-4.png' | relative_url }})

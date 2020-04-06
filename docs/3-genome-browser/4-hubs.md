@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Creating Custom Track Hubs
 
-Based on the instructions at https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html
+Based on the instructions at [https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html)
 
 We will first need to create a new directory to place all our files. We will create a folder in our home directory `mkdir testhub`, then `cd testhub` to enter that folder. We need to make a few files the most important is a the `hub.txt` file, we will create one by running `nano hub.txt` and enter the following text:
 
