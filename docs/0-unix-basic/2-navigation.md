@@ -2,7 +2,7 @@
 layout: default
 title: Navigation
 parent: "Unix - Basic"
-nav_order: 3
+nav_order: 2
 ---
 <!-- # Navigation Structure
 {: .no_toc }

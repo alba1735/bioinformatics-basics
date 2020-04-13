@@ -29,4 +29,3 @@ This is a site I made to help introduce people to bioinformatics basics, most of
 * [Jupyter Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook){:target="blank"}: Great alternative to plain python for data manipulation, plot generation, machine learning and data exploration
 
 <!--https://pmarsceill.github.io/just-the-docs/docs/ui-components/typography/-->
-<!--https://users.soe.ucsc.edu/~abagi/pub/bme110-w18/RNAseq.html-->

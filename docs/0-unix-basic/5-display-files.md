@@ -2,7 +2,7 @@
 layout: default
 title: Display Files
 parent: "Unix - Basic"
-nav_order: 6
+nav_order: 5
 ---
 # Display files: `cat`, `head`, `less`
 

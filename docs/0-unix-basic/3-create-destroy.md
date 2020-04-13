@@ -2,7 +2,7 @@
 layout: default
 title: Create and Delete Directories
 parent: "Unix - Basic"
-nav_order: 4
+nav_order: 3
 ---
 # Create and delete directories: `mkdir`, `rmdir`, `rm`
 

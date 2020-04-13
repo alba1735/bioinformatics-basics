@@ -2,7 +2,7 @@
 layout: default
 title: Downloading
 parent: "Unix - Basic"
-nav_order: 7
+nav_order: 6
 ---
 # Downloading files: `wget`
 
