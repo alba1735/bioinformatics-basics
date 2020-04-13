@@ -28,3 +28,5 @@ jekyll-build:
 
 upload:
 	scp -r _site/* abagi@morty.soe.ucsc.edu:/soe/abagi/.html/pub/biobasics/.
+
+push: jekyll-build upload

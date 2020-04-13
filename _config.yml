@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a site I made to help introduce people to bioinformatics basics,
   most of it is adapted from UCSC BME110 taught by Todd Lowe.
   I will add to it as we progress and add any useful resources we find.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://users.soe.ucsc.edu/~abagi/pub/biobasics" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/~abagi/pub/biobasics/" # the subpath of your site, e.g. /blog
+url: "https://users.soe.ucsc.edu" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  alba1735
 
