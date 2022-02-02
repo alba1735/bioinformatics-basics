@@ -32,4 +32,8 @@ This is a site I made to help introduce people to bioinformatics basics, most of
 * [Colab Notebooks](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c?gi=88c04ac04035){:target="blank"}: Less flexible than Jupyter notebooks but can be deployed quickly without having to install software, and run through google drive
 * [Jupyter Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook){:target="blank"}: Great alternative to plain python for data manipulation, plot generation, machine learning and data exploration
 
+## Data Analysis
+
+* [Understanding UMAP](https://pair-code.github.io/understanding-umap/){:target="blank"}: Easy explanation of UMAP
+
 <!--https://pmarsceill.github.io/just-the-docs/docs/ui-components/typography/-->
